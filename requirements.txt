@@ -1,0 +1,14 @@
+wandb
+pytorch_lightning
+peft
+ray
+gurobipy
+pandas
+bitsandbytes
+scikit-learn
+transformers
+datasets
+adapters
+ptflops
+nvidia-ml-py3
+cvxpy

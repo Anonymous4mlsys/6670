@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/__init__.py
+src/paths.py
+src/chain_of_thought_finetuning.egg-info/PKG-INFO
+src/chain_of_thought_finetuning.egg-info/SOURCES.txt
+src/chain_of_thought_finetuning.egg-info/dependency_links.txt
+src/chain_of_thought_finetuning.egg-info/top_level.txt
